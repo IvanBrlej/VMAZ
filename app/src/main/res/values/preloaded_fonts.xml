@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/akronim</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/allan_bold</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/archivo_black</item>
+        <item>@font/audiowide</item>
+        <item>@font/autour_one</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/butcherman</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/fontdiner_swanky</item>
+        <item>@font/nosifer</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/wallpoet</item>
+        <item>@font/yrsa_bold</item>
+    </array>
+</resources>
